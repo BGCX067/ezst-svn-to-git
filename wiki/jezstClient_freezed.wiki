@@ -1,0 +1,11 @@
+#summary jezstClient freezed
+
+= Introduction =
+
+jezstClient freezed
+
+
+= Details =
+
+  * the latest version of jezstClient (0.5.2) is now move to tags/0.5.2
+  * The implementations of succeeded version will be another language.
